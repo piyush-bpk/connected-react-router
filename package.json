@@ -33,7 +33,7 @@
   },
   "peerDependencies": {
     "history": "^4.7.2",
-    "react": "^16.4.0 || ^17.0.0",
+    "react": "^16.4.0 || ^17.0.0 || ^17.0.2",
     "react-redux": "^6.0.0 || ^7.1.0",
     "react-router": "^4.3.1 || ^5.0.0",
     "redux": "^3.6.0 || ^4.0.0"
@@ -67,11 +67,11 @@
     "immutable": "^4.0.0",
     "jest": "^24.3.1",
     "raf": "^3.4.0",
-    "react": "^16.4.0",
-    "react-dom": "^16.4.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
     "react-redux": "^6.0.0 || ^7.1.0",
     "react-router": "^4.3.1 || ^5.0.0",
-    "react-test-renderer": "^16.4.0",
+    "react-test-renderer": "^17.0.2",
     "redux": "^4.0.0",
     "redux-devtools": "^3.4.0",
     "redux-immutable": "^3.0.11",
